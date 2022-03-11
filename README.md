@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @toanpp98
+- 🌏 Vietnam
+- 👨‍🎓 Information Systems @ Vietnam National University, HCMC
+- 💼 Software Engineer @ VNG Corporation
+- 💻 PHP, JavaScript/TypeScript, SQL
+- 🧰 Laravel, VueJS, MySQL, Redis, RabbitMQ, UML
+- 📫 [phamphutoan98@gmail.com](mailto:phamphutoan98@gmail.com)
